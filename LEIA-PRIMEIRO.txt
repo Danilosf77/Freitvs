@@ -1,0 +1,13 @@
+FREITAS TV PC — ATELIÊ — 21/10/2026
+
+Extraia TODO o ZIP antes de abrir Iniciar.cmd.
+Windows 64 bits; Node portátil incluído. Não exige instalação nem administrador.
+Para encerrar, use Parar.cmd. Se houver erro, abra Diagnostico.cmd.
+
+Novo visual Ateliê Dock Compacto, modos claro e escuro, menus de vidro,
+filtros arredondados e faixa de áudio alinhada no player.
+O aplicativo precisa de internet para obter o catálogo e reproduzir vídeos.
+A disponibilidade de cada fonte depende do serviço e da região.
+
+Transmitir: Chrome e receptor Google Cast na mesma rede. A transmissão
+numa TV física ainda depende de confirmação no equipamento de destino.
